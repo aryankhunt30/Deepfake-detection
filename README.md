@@ -22,8 +22,7 @@ The **Deepfake Detection Project** is an AI-driven system designed to detect dee
 
 - **Machine Learning**: TensorFlow, PyTorch, Keras
 - **Deep Learning Models**: CNN, Autoencoders, GANs
-- **Cloud Services**: AWS, GCP, Azure
-- **Containers**: Docker, Kubernetes
+- **Cloud Services**: Azure
 - **GPU Acceleration**: NVIDIA CUDA, TensorRT
 - **Web Framework**: Flask, FastAPI
 - **Explainability Tools**: LIME, SHAP
